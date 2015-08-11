@@ -1,1 +1,3 @@
-test_ajout_fichier
+test_ajout_fichier.
+
+Test modification en ligne + git pull.
